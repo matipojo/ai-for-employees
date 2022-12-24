@@ -46,6 +46,13 @@ Create realistic images and art from a description in natural language.
 
 <a href="https://labs.bria.ai/" target="_blank">Bria</a>
 
+### Coding
+
+<a href="https://github.com/features/copilot/" target="_blank">GitHub Copilot</a>
+
+>Your AI pair programmer, GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
+
+
 -----
 
 ## Contributing
