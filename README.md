@@ -9,6 +9,16 @@
 >
 >-- <cite>Me 🙂</cite>
 
+## Table of Contents
+
+- [General](#general)
+- [Writing](#writing)
+- [Generating Images](#generating-images)
+- [Finding and Generating Images](#finding-and-generating-images)
+- [Coding](#coding)
+- [Contributing](#contributing)
+
+<a name="general"></a>
 ### General
 
 <a href="https://chat.openai.com/chat" target="_blank">ChatGPT</a>
@@ -16,6 +26,7 @@
 >
 > -- I asked the chat to describe itself
 
+<a name="writing"></a>
 ### Writing
 
 <a href="https://www.jasper.ai/" target="_blank">Jasper AI</a>
@@ -31,7 +42,8 @@
 <a href="https://www.wordtune.com/" target="_blank">Wordtune</a>
 >Wordtune is an AI-powered writing companion that understands what you’re trying to say, and suggests ways to make your writing more clear, compelling and authentic. 
 
-### Generate Images
+<a name="generating-images"></a>
+### Generating Images
 Create realistic images and art from a description in natural language.
 
 <a href="https://openai.com/dall-e-2/" target="_blank">DALL·E 2</a>
@@ -40,28 +52,22 @@ Create realistic images and art from a description in natural language.
 
 <a href="https://beta.dreamstudio.ai/" target="_blank">Deamstudio</a>
 
-### Find and Generate Images
+<a name="finding-and-generating-images"></a>
+### Finding and Generating Images
 
 <a href="https://lexica.art/" target="_blank">Lexica</a>
 
 <a href="https://labs.bria.ai/" target="_blank">Bria</a>
 
+<a name="coding"></a>
 ### Coding
 
 <a href="https://github.com/features/copilot/" target="_blank">GitHub Copilot</a>
 
 >Your AI pair programmer, GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 
-
 -----
 
 ## Contributing
 
 Just Create a PR
-
-
-
-
-
-
-
