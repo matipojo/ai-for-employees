@@ -13,6 +13,8 @@
 
 - [General](#general)
 - [Writing](#writing)
+  - [From Scratch](#from-scratch)
+  - [Finetuning](#finetuning)
 - [Generating Images](#generating-images)
 - [Finding and Generating Images](#finding-and-generating-images)
 - [Coding](#coding)
@@ -29,6 +31,9 @@
 <a name="writing"></a>
 ### Writing
 
+<a name="from-scratch"></a>
+#### From Scratch
+
 <a href="https://www.jasper.ai/" target="_blank">Jasper AI</a>
 > Jasper is the AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 
@@ -38,6 +43,8 @@
 <a href="https://bertha.ai/" target="_blank">Bertha</a>
 >Bertha is an AI-based writing and image creation assistant that has been trained on hundreds of billions of lines of content to help you write better content on any WordPress website 
 
+<a name="finetuning"></a>
+#### Finetuning
 
 <a href="https://www.wordtune.com/" target="_blank">Wordtune</a>
 >Wordtune is an AI-powered writing companion that understands what you’re trying to say, and suggests ways to make your writing more clear, compelling and authentic. 
