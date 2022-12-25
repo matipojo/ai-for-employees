@@ -42,6 +42,9 @@
 <a href="https://www.wordtune.com/" target="_blank">Wordtune</a>
 >Wordtune is an AI-powered writing companion that understands what you’re trying to say, and suggests ways to make your writing more clear, compelling and authentic. 
 
+<a href="https://grammarly.com/" target="_blank">Grammarly</a>
+>Grammarly is an AI-powered tool for compose bold, clear, mistake-free writing. 
+
 <a name="generating-images"></a>
 ### Generating Images
 Create realistic images and art from a description in natural language.
