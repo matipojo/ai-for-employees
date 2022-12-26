@@ -76,6 +76,10 @@ Create realistic images and art from a description in natural language.
 
 >Your AI pair programmer, GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 
+<a href="https://www.tabnine.com/" target="_blank">Tabnine</a>
+
+> Tabnine is an AI-powered autocomplete tool that helps developers write code faster and with fewer bugs.
+
 -----
 
 ## Contributing
